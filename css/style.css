@@ -1,0 +1,15 @@
+.comment {
+    width: 800px;
+    margin: 10px 5px 0px 0px
+}
+.note {
+    width: 800px;
+    margin: 20px 5px 0px 0px
+}
+.user {
+    width: 800px;
+    margin: 20px 5px 0px 0px
+}
+.commentTitle {
+    font-weight: bold;
+}
